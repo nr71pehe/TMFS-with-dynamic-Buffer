@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<document>
+  <row>
+    <seed>4177</seed>
+    <min_size>1</min_size>
+    <max_size>47</max_size>
+    <change_rate>(10)</change_rate>
+    <min_change>2</min_change>
+    <max_change>5</max_change>
+    <predetermined_sizes>()</predetermined_sizes>
+    <intensity>()</intensity>
+    <intensity_scaling_min>0</intensity_scaling_min>
+    <intensity_scaling_max>1</intensity_scaling_max>
+    <span>TRUE</span>
+  </row>
+</document>

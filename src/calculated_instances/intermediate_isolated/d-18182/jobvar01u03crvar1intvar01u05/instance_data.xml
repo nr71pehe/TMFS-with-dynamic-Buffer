@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<document>
+  <row>
+    <job_time_variation>0.1u0.3</job_time_variation>
+    <change_rate_variation>1</change_rate_variation>
+    <intensity_variation>0.1u0.5</intensity_variation>
+  </row>
+</document>
